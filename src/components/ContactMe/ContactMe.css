@@ -1,0 +1,46 @@
+.contact-container {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-container h5 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .contact-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .contact-content div {
+    width: 4rem;
+    height: 4rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #623686;
+    color: white;
+    transition: background-color 0.3s, border-color 0.3s;
+  }
+
+  .contact-content div img{
+    width: 2rem;
+    height: 2rem; 
+    transition: all 0.5s ease;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
+  .contact-content div:hover {
+    background-color: #6f42c1;
+  }
+  
+  .contact-content div:hover img {
+    transform: scale(1.2);
+  }
+  
