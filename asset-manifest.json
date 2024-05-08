@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.38ad424a.css",
+    "main.js": "/portfolio/static/js/main.49a2b422.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/blogApp.png": "/portfolio/static/media/blogApp.36d3740cea575caf854a.png",
+    "static/media/Smart-Attendance.png": "/portfolio/static/media/Smart-Attendance.8a14ec464e943f396795.png",
+    "index.html": "/portfolio/index.html",
+    "main.38ad424a.css.map": "/portfolio/static/css/main.38ad424a.css.map",
+    "main.49a2b422.js.map": "/portfolio/static/js/main.49a2b422.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ad424a.css",
+    "static/js/main.49a2b422.js"
+  ]
+}
