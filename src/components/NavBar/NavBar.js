@@ -16,7 +16,7 @@ const NavBar = ({ heroRef, skillsRef, projectsRef, contactRef }) => {
   }
 
   const downloadResume = () => {
-    const resumeUrl = '/public/resume.pdf';
+    const resumeUrl = '/resume.pdf';
     const anchor = document.createElement('a');
     anchor.href = resumeUrl;
     anchor.download = 'MAKKOUR-Mouad.pdf'; 
