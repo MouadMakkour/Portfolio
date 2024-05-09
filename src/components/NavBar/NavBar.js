@@ -16,7 +16,7 @@ const NavBar = ({ heroRef, skillsRef, projectsRef, contactRef }) => {
   }
 
   const downloadResume = () => {
-    const resumeUrl = 'https://mouadmakkour.github.io/resume.pdf';
+    const resumeUrl = 'https://mouadmakkour.github.io/portfolio/resume.pdf';
     const anchor = document.createElement('a');
     anchor.href = resumeUrl;
     anchor.download = 'MAKKOUR-Mouad.pdf'; 
